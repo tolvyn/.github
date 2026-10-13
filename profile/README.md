@@ -55,6 +55,7 @@ Your Application
 | `tolvyn` (CLI)         | Go + Cobra  | Terminal interface for all operations                 |
 | `tolvyn` (Python SDK)  | Python 3.9+ | Drop-in for `openai` and `anthropic` packages         |
 | `tolvyn` (Node.js SDK) | TypeScript  | Drop-in for `openai` and `@anthropic-ai/sdk` packages |
+| `tolvyn-go` (Go SDK)   | Go 1.21+    | Drop-in for the OpenAI, Anthropic and Google Go SDKs  |
 | PostgreSQL             | SQL         | Primary datastore with row-level security             |
 
 ---
@@ -63,9 +64,10 @@ Your Application
 
 | Repo                                                       | Description                                                           |
 |------------------------------------------------------------|-----------------------------------------------------------------------|
-| [tolvyn-server](https://github.com/tolvyn/tolvyn-server)   | Go HTTP proxy and REST API backend                                    |
+| tolvyn-server *(private)*                                  | Go HTTP proxy and REST API backend                                    |
 | [tolvyn-python](https://github.com/tolvyn/tolvyn-python)   | Python SDK — drop-in for `openai` and `anthropic`                     |
 | [tolvyn-nodejs](https://github.com/tolvyn/tolvyn-nodejs)   | Node.js/TypeScript SDK — drop-in for `openai` and `@anthropic-ai/sdk` |
+| [tolvyn-go](https://github.com/tolvyn/tolvyn-go)           | Go SDK — drop-in for the OpenAI, Anthropic and Google Go SDKs          |
 | [tolvyn-cli](https://github.com/tolvyn/tolvyn-cli)         | CLI: `tolvyn tail`, budgets, cost, keys, teams                        |
 | [docs](https://github.com/tolvyn/docs)                     | GitBook documentation source                                          |
 | [tolvyn-website](https://github.com/tolvyn/tolvyn-website) | Marketing website                                                     |
