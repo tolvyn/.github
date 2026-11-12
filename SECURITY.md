@@ -22,6 +22,9 @@ welcome as an issue.
 A report that duplicates work already tracked before it arrived is still
 answered — it just is not credited as new.
 
+The researchers credited so far are listed on the security page:
+https://tolvyn.io/pages/security#acknowledgments
+
 ## Scope
 
 In scope: the TOLVYN proxy and API (`api.tolvyn.io`, `proxy.tolvyn.io`), the
