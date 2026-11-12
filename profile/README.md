@@ -1,9 +1,9 @@
 # TOLVYN
 
-**The Financial Control Plane for AI Infrastructure.**
+**The control and evidence layer for AI spend.**
 
 Meter, attribute, govern, and audit every AI API call across
-OpenAI, Anthropic, and Google. One line of code. 5 minutes to start.
+OpenAI, Anthropic, Google and DeepSeek. One line of code. 5 minutes to start.
 
 ---
 
